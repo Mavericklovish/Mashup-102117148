@@ -1,6 +1,5 @@
 from email.message import Message
 
-import mail as mail
 import streamlit as st
 from flask import app
 from moviepy.audio.io.AudioFileClip import AudioFileClip
